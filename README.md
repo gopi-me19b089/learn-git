@@ -1,2 +1,4 @@
+
 # learn-git
-my second git learning
+
+my first learning git steps
